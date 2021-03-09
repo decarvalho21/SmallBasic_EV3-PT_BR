@@ -1,2 +1,2 @@
-# SmallBasic_EV3-PT_BR
+# SB_PT-BR
 SmallBasic(&amp; EV3Basic) in Brazillian Portuguese
